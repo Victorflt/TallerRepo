@@ -1,6 +1,6 @@
 ### Comandos básicos de Git
 
-
+git clone
 
 
 
