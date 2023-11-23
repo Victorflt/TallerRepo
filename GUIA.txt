@@ -1,9 +1,10 @@
 ### Comandos básicos de Git
 
 git clone
+Pusheando
+Pulleando
 
-
-
+commiteando
 
 
 
@@ -11,26 +12,35 @@ git clone
 
 ### Lo que más me gustó del curso
 
+Puedo robar las tesis de mi equipo
 
-
-
+### Lo que más me gustó del curso
 
 
 
 
 
 ### 50 Cosas sobre mí
+
+
+
+
+<<<<<<< Updated upstream
+### 50 Cosas sobre mí
 n1,3,5,7,9,11,13,17,19
+=======
 
-
-
-
+>>>>>>> Stashed changes
 
 
 
 
 
 ### Sección libre
+
+wiri wiri wiri
+
+
 
 mantequilla, aceite de canola sabor mantequilla en aerosol
 6 pechugas de pollo, en filetes
