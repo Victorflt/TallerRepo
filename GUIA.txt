@@ -1,0 +1,58 @@
+### Comandos básicos de Git
+
+git clone
+Pusheando
+Pulleando
+
+commiteando
+
+
+
+
+
+### Lo que más me gustó del curso
+
+Puedo robar las tesis de mi equipo
+
+### Lo que más me gustó del curso
+
+
+
+
+
+### 50 Cosas sobre mí
+
+
+
+
+<<<<<<< Updated upstream
+### 50 Cosas sobre mí
+n1,3,5,7,9,11,13,17,19
+=======
+
+>>>>>>> Stashed changes
+
+
+
+
+
+### Sección libre
+
+wiri wiri wiri
+
+
+
+mantequilla, aceite de canola sabor mantequilla en aerosol
+6 pechugas de pollo, en filetes
+250 gramos de queso Oaxaca
+200 gramos de jamón de pavo, en cubos
+200 mililitros de crema ácida
+100 mililitros de leche descremada
+8 chiles chipotles
+2 cucharaditas de consomé de pollo
+1/4 cebollas
+1 cucharadita de ajo, picado
+sal
+pimientas 
+
+
